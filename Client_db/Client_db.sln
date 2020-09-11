@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Clientdb", "Client_db\Client_db.vcxproj", "{C5D50FBD-F7B4-49FF-9003-54D6083FC4E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		eee|x64 = eee|x64
+		eee|x86 = eee|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5D50FBD-F7B4-49FF-9003-54D6083FC4E0}.Debug|x64.ActiveCfg = Debug|x64
+		{C5D50FBD-F7B4-49FF-9003-54D6083FC4E0}.Debug|x64.Build.0 = Debug|x64
+		{C5D50FBD-F7B4-49FF-9003-54D6083FC4E0}.Debug|x86.ActiveCfg = Debug|Win32
+		{C5D50FBD-F7B4-49FF-9003-54D6083FC4E0}.Debug|x86.Build.0 = Debug|Win32
+		{C5D50FBD-F7B4-49FF-9003-54D6083FC4E0}.eee|x64.ActiveCfg = eee|x64
+		{C5D50FBD-F7B4-49FF-9003-54D6083FC4E0}.eee|x64.Build.0 = eee|x64
+		{C5D50FBD-F7B4-49FF-9003-54D6083FC4E0}.eee|x86.ActiveCfg = eee|Win32
+		{C5D50FBD-F7B4-49FF-9003-54D6083FC4E0}.eee|x86.Build.0 = eee|Win32
+		{C5D50FBD-F7B4-49FF-9003-54D6083FC4E0}.Release|x64.ActiveCfg = Release|x64
+		{C5D50FBD-F7B4-49FF-9003-54D6083FC4E0}.Release|x64.Build.0 = Release|x64
+		{C5D50FBD-F7B4-49FF-9003-54D6083FC4E0}.Release|x86.ActiveCfg = Release|Win32
+		{C5D50FBD-F7B4-49FF-9003-54D6083FC4E0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78164DF2-3FD3-4AC2-A695-E07FD8BA5250}
+	EndGlobalSection
+EndGlobal
