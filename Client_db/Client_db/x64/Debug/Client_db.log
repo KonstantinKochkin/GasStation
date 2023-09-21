@@ -1,3 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Client_db.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  AuthorizationForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
-  Client_db.vcxproj -> C:\Универ\8 семестр\1_АСУ\Client_db\x64\Debug\Clientdb.exe
